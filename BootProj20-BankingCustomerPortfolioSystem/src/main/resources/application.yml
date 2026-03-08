@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: BootProj20-BankingCustomerPortfolioSystem
+  config:
+    import: com/akshay/commons/customer.yml
