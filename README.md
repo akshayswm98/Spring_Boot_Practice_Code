@@ -81,7 +81,7 @@ It includes examples of:
 **Akshay Patil**
 
 💼 Java Developer
-🌐 GitHub: https://github.com/yourusername
+🌐 GitHub: https://github.com/akshayswm98
 
 ---
 
