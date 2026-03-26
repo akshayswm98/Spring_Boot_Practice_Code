@@ -23,6 +23,7 @@ public class SpringBootLombokProjectApplication
 		User user = new User(10, "Akshay");
 		System.out.println(user);
 		
+		System.out.println("SpringBootLombokProjectApplication.main()");
 	}
 
 }
